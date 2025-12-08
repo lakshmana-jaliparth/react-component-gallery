@@ -32,8 +32,8 @@ function ColorPickerDemo() {
             key={color}
             onClick={() => setSelectedColor(color)}
             style={{
-              width: "32px",
-              height: "32px",
+              width: "16px",
+              height: "16px",
               borderRadius: "50%",
               border: selectedColor === color ? "3px solid black" : "2px solid #ccc",
               background: color,
