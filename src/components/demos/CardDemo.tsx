@@ -19,7 +19,7 @@ function CardDemo() {
       }}
     >
       {/* ✅ Always-visible profile info */}
-      <h3 style={{ marginBottom: "0.25rem" }}>Lakshmaan Rao</h3>
+      <h3 style={{ marginBottom: "0.25rem" }}>Lakshmana Rao</h3>
       <p style={{ color: "#555", marginTop: 0 }}>Frontend Developer</p>
 
       {/* ✅ Toggle button */}
